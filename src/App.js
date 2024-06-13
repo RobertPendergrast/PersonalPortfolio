@@ -52,7 +52,7 @@ function App() {
           <h3>Available Upon Request</h3>
           <a href = "https://web-dev-six-omega.vercel.app/" className='Project-Title'>MyNationalParks</a>
           <h3>Developed a web application with an interactive React.js frontend to allow national parks users to journal their adventures. Implemented backend services with Node.js and Express, including a RESTful API for handling CRUD operations.</h3>
-          <a href = "https://github.com/RobertPendergrast/VideoGame" className='Project-Title'>Video Game Enginer</a>
+          <a href = "https://github.com/RobertPendergrast/VideoGame" className='Project-Title'>Video Game Engine</a>
           <h3>Wrote a video game engine from scratch in Java using Swing graphics. No other outside libraries were used for the engine. It features a Perlin Noise terrain generation algorithm, object detection and collisions, and realistic movement physics.</h3>
           <a href = "https://scratch.mit.edu/users/AgentQuirt/projects/" className='Project-Title'>Online Game Developer</a>
           <h3>Developed over 30 games on the online coding editor Scratch. Amassed over 5000 followers with over 1 million people playing my games. Had over a dozen projects placed on the front page. Chosen to be a site curator.</h3>
