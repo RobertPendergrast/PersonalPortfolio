@@ -1,0 +1,21 @@
+/* src/components/Sidebar.css */
+.sidebar nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar nav ul li {
+    margin: 20px 0;
+  }
+  
+  .sidebar nav ul li a {
+    text-decoration: none;
+    color: #2f3e46;
+    cursor: pointer;
+    transition: color 0.3s;
+  }
+  
+  .sidebar nav ul li a:hover {
+    color: #2f3e46;
+  }
+  
